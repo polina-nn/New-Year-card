@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #222222;
+  background-color: #ffffff;
+  background-image: url("img/hero-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.container {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.page-header {
+  margin: 0 0 160px;
+  padding: 32px 0 32px;
+}
+
+.page-header .container,
+.page-footer .container {
+  max-width: 1408px;
+  text-align: right;
+}
+
+.page-header a {
+  margin-left: 56px;
+  color: #288be6;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.hero-image {
+  margin-bottom: 600px;
+}
+
+.hero-image .container {
+  max-width: 1408px;
+  text-align: center;
+}
+
+.heading {
+  margin: 0 0 16px;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 98px;
+  line-height: 96px;
+  font-weight: 700;
+}
+
+.hero-image p {
+  margin: 0;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.intro {
+  margin: 0 0 100px;
+}
+
+.subheading {
+  margin: 0 0 56px;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.page-footer {
+  padding: 100px 0;
+  background-color: #00417d;
+  color: #ffffff;
+}
